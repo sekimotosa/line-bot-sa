@@ -1,7 +1,7 @@
 {
   "name": "danna-bot",
   "version": "1.0.0",
-  "description": "line bot sample app”,
+  "description": "line bot sample app",
   "main": "app.js",
   "scripts": {
     "start": "node --harmony app.js"
