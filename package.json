@@ -1,0 +1,17 @@
+{
+  "name": “danna-bot",
+  "version": "1.0.0",
+  "description": "line bot sample app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --harmony app.js"
+  },
+  "author": “danna”,
+  "license": "MIT",
+  "dependencies": {
+    "co-body": "^4.0.0",
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0",
+    "request": "^2.72.0"
+  }
+}
